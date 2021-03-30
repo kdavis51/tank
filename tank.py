@@ -1,4 +1,3 @@
-pi@raspberrypi:~ $ cat tank.py
 #!/usr/bin/env python3
 
 import RPi.GPIO as GPIO
@@ -85,4 +84,3 @@ while(1):
                 print("*** INVALID INPUT ***")
                 print("Please use: s-stop f-forward b-backward l-low m-medium h-high e-exit")
 
-pi@raspberrypi:~ $
