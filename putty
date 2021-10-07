@@ -1,0 +1,10 @@
+1)  Hook Raspberry pi to power, monitor, keyboard and mouse
+2)  Login into the raspberry pi
+3)  connect the raspberry pi to wifi
+4)  get the ip address ifconfig
+            https://www.raspberrypistarterkits.com/how-to/find-raspberry-pi-ip-address/
+            
+6)  download & install putty on your laptop   
+            https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.76-installer.msi
+7)  start putty, in the hostname / ip address enter in the ip aquired in step2
+8)  login to raspberry PI
